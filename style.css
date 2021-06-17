@@ -1,0 +1,24 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+#current-location {
+    font-size: 1em;
+}
+#card-container {
+    margin-top: 75px;
+}
+ul{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+div > i{
+    width: 100%;
+}
+.input-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: fit-content;
+}
+.form-control {
+    width: 250px;
+}
